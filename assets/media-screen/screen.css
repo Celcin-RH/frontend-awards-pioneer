@@ -1,0 +1,528 @@
+/* FAVORITE */
+
+@media (max-width: 1250px){
+  header .hero_section h1 {
+    font-size: 3.5rem;
+  }
+  header .hero_section>.left .top img {
+    width: 3rem;
+  }
+  header .hero_section>.left>img.float_1 {
+    top: -5rem;
+    right: 7.5rem;
+    width: 5rem;
+  }
+
+  header .hero_section>.left>img.float_2 {
+    top: 40%;
+    width: 5rem;
+  }
+
+  header .hero_section>.left>img.float_3 {
+    top: 30%;
+    right: 4rem;
+    width: 8rem;
+  }
+  header .hero_section>.right .content_right {
+    height: 29rem;
+    width: 18rem;
+    margin-left: 10rem;
+    border-radius: 8rem;
+  }
+
+  header .hero_section>.right>img.float_1 {
+    top: 2rem;
+    left: 9rem;
+    width: 3rem;
+  }
+
+  header .hero_section>.right>img.float_2 {
+    bottom: -10px;
+    right: -1rem;
+    width: 3rem;
+  }
+
+  header .hero_section>.right>img.float_3 {
+    right: -3rem;
+    top: 2.5rem;
+    width: 7rem;
+  }
+
+  header .hero_section>.right>img.float_4 {
+    left: 4rem;
+    bottom: 3.5rem;
+    width: 7rem;
+  }
+
+  footer>.top .contents {
+    gap: 1rem;
+  }
+}
+
+
+@media (max-width: 1200px) {
+  .cards_section>h1{
+    font-size: 3.5rem;
+  }
+  .cards_section>p {
+    margin: 1rem auto 3rem auto;
+  }
+  .favorite h2 {
+    font-size: 1.8rem;
+  }
+  .partners .title {
+    padding: 1.5rem;
+  }
+  .partners .all_partners>div>div>div {
+    width: 22rem;
+    height: 13rem;
+  }
+
+  .left .story-container {
+    width: 16rem;
+    height: 3.5rem;
+  }
+
+  .story-container .story {
+    padding: 10px 20px;
+  }
+
+  .story-container .title,
+  .story-container .desc {
+    font-size: 0.75rem;
+  }
+
+  .story-container .story-right {
+    width: 30px;
+    height: 30px;
+  }
+
+  .story-container svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .right .container {
+    width: 16rem;
+    height: 435px;
+  }
+
+  .lorem-story-container {
+    gap: 2.5rem;
+  }
+
+  footer>.top .contents {
+    gap: 0.5rem;
+  }
+
+  footer>.top .contents>.left>div span {
+    font-size: 2.5rem;
+  }
+
+  /* ::::ABOUT :::: */
+
+  .about>div {
+    width: 70%;
+    gap: 8rem;
+  }
+  .about-left h2 {
+    font-size: 3rem;
+  }
+  .card1 h2 {
+    font-size: 1.2rem;
+    line-height: 2.3rem;
+  }
+  .about-right h2 {
+    font-size: 1.5rem;
+  }
+  .about-right h1 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 1150px) {
+
+
+
+  header .head .middle {
+
+    width: 8rem;
+    height: 5rem;
+  }
+
+  header .head .middle .content span {
+    font-size: 0.8rem;
+  }
+
+  header .head .middle>div>svg {
+    width: 13rem;
+    height: 9rem;
+  }
+}
+
+@media (max-width: 1050px) {
+
+  header .hero_section h1 {
+    font-size: 2.9rem;
+  }
+
+  header .hero_section>.left .top img {
+    width: 2.5rem;
+  }
+
+  header .hero_section>.left>img.float_1 {
+    top: -3.5rem;
+    right: 7.5rem;
+    width: 3rem;
+  }
+
+  header .hero_section>.left>img.float_2 {
+    top: 35%;
+    width: 3rem;
+  }
+
+  header .hero_section>.left>img.float_3 {
+    top: 25%;
+    width: 6rem;
+  }
+
+  header .hero_section>.right .content_right {
+    height: 25rem;
+    width: 16rem;
+    margin-left: 5rem;
+    border-radius: 6rem;
+  }
+
+  header .hero_section>.right .content_right>.img_container>img {
+    width: 30rem;
+  }
+
+  header .hero_section>.right>img.float_1 {
+    top: 2rem;
+    left: 4.5rem;
+    width: 2.5rem;
+  }
+
+  header .hero_section>.right>img.float_2 {
+    width: 2.5rem;
+  }
+
+  header .hero_section>.right>img.float_3 {
+    right: -1rem;
+    width: 6rem;
+  }
+
+  header .hero_section>.right>img.float_4 {
+    width: 6rem;
+    left: 2rem;
+    bottom: 3rem;
+  }
+  .cta {
+    width: 8rem;
+    height: 2.5rem;
+  }
+
+  .cta button {
+    font-size: 0.9rem;
+  }
+
+  footer>.top .contents {
+    gap: 0.3rem;
+  }
+
+  footer>.top .contents>.left>div span {
+    font-size: 2rem;
+  }
+  footer>.top .contents>.left>div span::before {
+    height: 2px;
+  }
+  footer>.top .contents>.right {
+    gap: 0.6rem;
+  }
+  footer>.top .contents>.right form {
+    padding-top: 0.2rem;
+  }
+  footer>.top .contents>.right form>div {
+    gap: 0.5rem;
+    margin-bottom: 0.3rem;
+  }
+
+  
+  .about-left .card-container {
+    width: 220px;
+    height: 300px;
+  }
+  .card1 .rectangle {
+    width: fit-content;
+    background-color: #000;
+    padding: .2rem .5rem;
+    margin-top: 30px;
+    transform: rotate(-15deg);
+  }
+  .about-right .be {
+    display: none;
+}
+}
+
+@media (max-width: 950px) {
+
+
+
+  header .head .middle {
+    display: none;
+  }
+
+  .partners .title {
+    padding: 1.5rem;
+  }
+
+  .partners .title h1 {
+    font-size: 2rem;
+  }
+
+  header .hero_section>.left .bottom {
+    gap: 2rem;
+  }
+
+  header .hero_section>.right .content_right {
+    height: 23rem;
+    width: 14rem;
+    margin-left: 1rem;
+    border-radius: 6rem;
+  }
+
+  header .hero_section>.right>img.float_1 {
+    top: 1rem;
+    left: 3rem;
+  }
+
+  header .hero_section>.right>img.float_2 {
+    bottom: -8px;
+    right: 0rem;
+    width: 2.5rem;
+  }
+
+  header .hero_section>.right>img.float_3 {
+    right: -1rem;
+    width: 6rem;
+  }
+
+  header .hero_section>.right>img.float_4 {
+    width: 6rem;
+    left: 2rem;
+    bottom: 3rem;
+  }
+
+  footer>.top .contents {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .about {
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .about>div{
+    margin: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+}
+
+@media (max-width: 800px) {
+
+  #favorite svg{
+    display: none;
+  }
+
+  section.fonctionaliter{
+    height: auto;
+  }
+
+  .fonctionaliter>div{
+    display: flex;
+  }
+
+  header {
+      width: 100%;
+      height: auto;
+      padding-bottom: 2rem;
+    }
+  header .hero_section {
+    grid-template-columns: 1fr;
+    gap: 4.5rem;
+  }
+
+  header .hero_section>.right .content_right {
+    height: 28rem;
+    width: 18rem;
+    margin-left: 0;
+  }
+
+  header .hero_section>.left .bottom {
+    margin-top: 3rem;
+  }
+
+  header .hero_section>.right>img.float_3 {
+    right: 4rem;
+    width: 8rem;
+  }
+
+  header .hero_section>.right>img.float_4 {
+    width: 8rem;
+    left: 2rem;
+  }
+
+  footer>.top .contents>.right form>div {
+    flex-direction: column;
+  }
+
+  footer>.bottom {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  footer>.bottom > span {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  nav{
+    display: none;
+}
+}
+
+@media (max-width: 650px) {
+  section.fonctionaliter > h1{
+    font-size: 1.5rem;
+  }
+
+  .fonctionaliter > div .left {
+    width: 90%;
+    margin: auto;
+    margin-top: 1rem;
+  }
+  
+  .partners .title {
+    padding: 1.3rem;
+  }
+
+  .partners .title h1 {
+    font-size: 1.5rem;
+  }
+
+  .partners .all_partners>div>div>div {
+    width: 16rem;
+    height: 10rem;
+  }
+
+
+  .favorite h2 {
+    width: 16rem;
+    font-size: 1.2rem;
+    align-self: center;
+  }
+  .lorem-story-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .lorem-container {
+    width: 16rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-self: center;
+  }
+}
+
+@media (max-width: 625px) {
+  .favorite h2 {
+    width: 16rem;
+    font-size: 1.2rem;
+    align-self: center;
+  }
+}
+
+@media (max-width: 550px){
+
+  header .hero_section>.right .content_right>.img_container>img {
+    width: 25rem;
+  }
+
+  .partners {
+    height: auto;
+  }
+
+.partners .all_partners>div>div>div {
+  width: 12rem;
+  height: 8rem;
+}
+
+.partners .all_partners>div>div>div img{
+  width: 4rem;
+}
+
+.partners .title {
+  padding: 1.3rem;
+}
+
+.partners .title h1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+  header .hero_section {
+    margin: 1rem auto;
+  }
+
+  .cta {
+    width: 6rem;
+    height: 2.3rem;
+  }
+  .cta button {
+    font-size: .7rem;
+    font-weight: 600;
+  }
+  header .hero_section>.left .bottom>span {
+    font-size: .7rem;
+    font-weight: 600;
+  }
+  header .hero_section h1 {
+    font-size: 2rem;
+  }
+
+  header .hero_section>.right .content_right {
+    height: 20rem;
+    width: 12rem;
+    margin-left: 0;
+  }
+
+  header .hero_section>.left .bottom {
+    margin-top: 3rem;
+  }
+
+  header .hero_section>.right>img.float_1 {
+    left: 0;
+  }
+
+  header .hero_section>.right>img.float_3 {
+    right: 0;
+    top: 2rem;
+    width: 5rem;
+  }
+
+  header .hero_section>.right>img.float_4 {
+    left: -1rem;
+    bottom: 3rem;
+    width: 5rem;
+  }
+
+  .humburger span{
+    font-size: 1rem;
+  }
+}
